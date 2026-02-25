@@ -13,18 +13,18 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: ""
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Junior Data Engineer"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
+    description: "Junior Data Engineer specialized in GCP, Apache Airflow, and Python. Building robust data pipelines and transforming raw data into business value."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "MakeOwnable"              # Twitter/X handle for Twitter Cards (without @)
+      twitter: ""              # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -89,10 +89,10 @@ hugoblox:
     # Menu alignment
     align: center                       # left | center | right
     # Feature toggles
-    search: true
+    search: false
     theme_toggle: true
-    theme_picker: true
-    language_switcher: true
+    theme_picker: false
+    language_switcher: false
     # Call-to-action button
     cta:
       enable: false
@@ -104,10 +104,10 @@ hugoblox:
   # Site footer
   # ────────────────────────────────────────────────────────────────────────────
   footer:
-    # Footer style variant
-    style: minimal                      # minimal | columns | centered
-    language_switcher: true
-    # Custom footer text (HTML supported)
+    style: minimal
+    language_switcher: false
+    show_copyright: false
+    show_powered_by: false
     text: ""
 
   # ────────────────────────────────────────────────────────────────────────────

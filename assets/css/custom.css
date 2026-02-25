@@ -1,0 +1,23 @@
+nav .navbar-nav {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+nav {
+  padding-top: 0.4rem !important;
+  padding-bottom: 0.4rem !important;
+}
+
+nav .navbar-nav a {
+  font-size: 1.10rem !important;
+}
+
+footer {
+  display: none !important;
+}
+
+.resume-biography {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+}
