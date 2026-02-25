@@ -21,7 +21,7 @@ affiliations:
     url: 'https://www.onr.org.br/' # ← URL DA SUA EMPRESA
 
 links:
-  - icon: at-symbol
+  - icon: envelope
     url: mailto:pedrohentec@gmail.com  # ← SEU EMAIL
     label: E-mail Me
   - icon: brands/github

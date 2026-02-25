@@ -1,9 +1,13 @@
-nav .navbar-nav {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
+/* Centraliza apenas em telas desktop (maiores que 992px) */
+@media (min-width: 992px) {
+  nav .navbar-nav {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
 }
 
+/* Ajustes gerais de espaçamento */
 nav {
   padding-top: 0.4rem !important;
   padding-bottom: 0.4rem !important;
@@ -13,6 +17,7 @@ nav .navbar-nav a {
   font-size: 1.10rem !important;
 }
 
+/* Esconde o footer padrão */
 footer {
   display: none !important;
 }
