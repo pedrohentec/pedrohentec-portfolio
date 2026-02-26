@@ -2,6 +2,7 @@
 title: 'Experience'
 date: 2023-10-24
 type: landing
+weight: 10
 
 design:
   spacing: '5rem'
@@ -22,10 +23,10 @@ sections:
     content:
       title: Skills & Hobbies
       username: me
-  - block: resume-awards
-    content:
-      title: Awards
-      username: me
+  # - block: resume-awards
+  #   content:
+  #     title: Awards
+  #     username: me
   - block: resume-languages
     content:
       title: Languages

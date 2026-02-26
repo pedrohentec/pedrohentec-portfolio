@@ -9,6 +9,8 @@ cascade:
     type: docs
     params:
       show_breadcrumb: true
+      sidebar:
+        hide: true
 
 sections:
   - block: collection
