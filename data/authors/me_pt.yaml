@@ -1,0 +1,111 @@
+schema: hugoblox/author/v1
+slug: me_pt
+is_owner: true
+name:
+  display: Pedro Henrique
+  given: Pedro
+  family: pedrohentec
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+postnominals: []
+status:
+  icon: "🎲"
+role: Engenheiro de Dados Júnior
+bio: |
+  Entusiasta de dados com paixão por construir pipelines robustos e orquestrar dados na nuvem.
+  Trabalho diariamente com GCP, SQL, Apache Airflow e Python para transformar dados em valor de negócio.
+
+affiliations:
+  - name: ONR • Registro de Imóveis Eletrônico
+    url: 'https://www.onr.org.br/'
+
+links:
+  - icon: envelope
+    url: mailto:pedrohentec@gmail.com
+    label: E-mail
+  - icon: brands/github
+    url: https://github.com/pedrohentec
+    label: GitHub
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/pedrohentec/
+    label: LinkedIn
+  - icon: brands/youtube
+    url: https://youtube.com/@pedrohentec
+    label: YouTube
+  - icon: hero/tv
+    url: https://www.twitch.tv/pedrohentec
+    label: Twitch
+
+interests:
+  - Pipelines de Dados
+  - Computação em Nuvem (GCP)
+  - Orquestração de Dados
+  - SQL & Analytics
+
+education:
+  - degree: Ciência de Dados
+    institution: UNOPAR
+    start: ''
+    end: ''
+
+experience:
+  - role: Engenheiro de Dados Júnior
+    org: ONR • Registro de Imóveis Eletrônico
+    start: 2025-01-06
+    summary: |
+      Atuo no desenvolvimento e monitoramento de pipelines de dados em ambiente GCP, com foco em performance, governança e confiabilidade das informações.
+      Utilizo Apache Beam e Dataflow para orquestração de dados no BigQuery, aplicando boas práticas de modularização e processamento assíncrono.
+
+      ● Criação de pipelines com Apache Beam (Python) no Dataflow, processando dados em batch e streaming.
+
+      ● Validação automática de tabelas e partições no BigQuery, com geração de modelos dinâmicos a partir de arquivos JSON.
+
+      ● Monitoramento de jobs via API (Dataflow e BigQuery), com foco em status, métricas e integridade dos dados.
+
+      ● Governança e classificação de dados com Dataplex, alinhada à LGPD.
+
+      ● Otimização e refatoração de pipelines legados para maior eficiência e reusabilidade.
+
+  - role: Engenheiro de Dados (Trainee)
+    org: A3Data
+    start: 2024-07-01
+    end: 2025-03-01
+    summary: |
+      Atuei como Engenheiro de Dados em projetos em ambiente AWS, com foco na construção e otimização de pipelines de dados em larga escala.
+
+      ● Desenvolvimento de pipelines com Spark, SQL e Python em ambiente AWS EMR, orquestrados pelo Airflow.
+
+      ● Otimização de queries e fluxos de dados com Athena, com dados armazenados no S3.
+
+      ● Uso de Docker e Kubernetes (EKS) para empacotamento e deploy de aplicações de dados.
+
+      ● Suporte na implementação de boas práticas de versionamento com Git/GitHub.
+
+      ● Participação ativa na análise de requisitos de dados, contribuindo com insights técnicos para decisões estratégicas.
+
+skills:
+  - name: Engenharia de Dados
+    items:
+      - label: Python
+        level: 5
+      - label: SQL
+        level: 4
+      - label: Apache Airflow
+        level: 3
+      - label: BigQuery
+        level: 3
+      - label: Docker
+        level: 1
+      - label: GCP Dataflow
+        level: 2
+
+languages:
+  - name: Português
+    level: 5
+    label: Nativo
+  - name: Inglês
+    level: 3
+    label: Intermediário
+
+awards: []

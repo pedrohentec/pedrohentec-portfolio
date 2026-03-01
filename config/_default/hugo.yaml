@@ -12,10 +12,33 @@ baseURL: 'https://example.com/'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
-removePathAccents: true
+defaultContentLanguage: pt
+
+languages:
+  pt:
+    languageName: PT
+    weight: 1
+    contentDir: content/pt
+    title: 'Pedrohentec | Engenheiro de Dados'
+  en:
+    languageName: EN
+    weight: 2
+    contentDir: content/en
+    title: 'Pedrohentec | Data Engineer'
+    menus:
+      main:
+        - name: Home
+          url: /en/
+          weight: 10
+        - name: Experience
+          url: /en/experience/
+          weight: 20
+        - name: Projects
+          url: /en/projects/
+          weight: 30
+        - name: Courses
+          url: /en/courses/
+          weight: 40
 
 ############################
 ## PAGE OPTIONS

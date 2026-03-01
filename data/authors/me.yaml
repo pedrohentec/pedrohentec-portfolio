@@ -14,7 +14,7 @@ status:
 role: Junior Data Engineer
 bio: |
   Data enthusiast with a passion for building robust data pipelines and orchestrating data in the cloud. 
-  I work daily with GCP, Apache Airflow, and Python to transform data into business value.
+  I work daily with GCP, SQL, Apache Airflow, and Python to transform data into business value.
 
 affiliations:
   - name: ONR • Registro de Imóveis Eletrônico    # ← SUA EMPRESA
@@ -98,7 +98,7 @@ skills:
       - label: BigQuery
         level: 3
       - label: Docker
-        level: 3
+        level: 1
       - label: GCP Dataflow
         level: 2
 
