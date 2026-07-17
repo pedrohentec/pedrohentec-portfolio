@@ -19,9 +19,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Junior Data Engineer"
+    tagline: "Data Engineer"
     # Site meta description for search engines and social sharing
-    description: "Junior Data Engineer specialized in GCP, Apache Airflow, and Python. Building robust data pipelines and transforming raw data into business value."
+    description: "Data Engineer specialized in GCP, Apache Airflow, and Python. Building robust data pipelines and transforming raw data into business value."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: ""              # Twitter/X handle for Twitter Cards (without @)

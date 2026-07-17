@@ -11,7 +11,7 @@ name:
 postnominals: []
 status:
   icon: "🎲"
-role: Engenheiro de Dados Júnior
+role: Engenheiro de Dados
 bio: |
   Entusiasta de dados com paixão por construir pipelines robustos e orquestrar dados na nuvem.
   Trabalho diariamente com GCP, SQL, Apache Airflow e Python para transformar dados em valor de negócio.
@@ -50,7 +50,7 @@ education:
     end: ''
 
 experience:
-  - role: Engenheiro de Dados Júnior
+  - role: Engenheiro de Dados
     org: ONR • Registro de Imóveis Eletrônico
     start: 2025-01-06
     summary: |
@@ -67,7 +67,7 @@ experience:
 
       ● Otimização e refatoração de pipelines legados para maior eficiência e reusabilidade.
 
-  - role: Engenheiro de Dados (Trainee)
+  - role: Engenheiro de Dados
     org: A3Data
     start: 2024-07-01
     end: 2025-03-01
