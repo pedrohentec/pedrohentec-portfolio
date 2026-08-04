@@ -10,12 +10,12 @@ sections:
   - block: collection
     content:
       title: Projetos
-      text: Em construção — em breve novos projetos serão adicionados aqui.
+      text: 
       filters:
         folders:
           - projects
     design:
-      view: article-grid
+      view: card
       fill_image: false
       columns: 3
       show_date: false

@@ -10,12 +10,12 @@ sections:
   - block: collection
     content:
       title: Projects
-      text: Under construction — new projects will be added here soon.
+      text: 
       filters:
         folders:
           - projects
     design:
-      view: article-grid
+      view: card
       fill_image: false
       columns: 3
       show_date: false
